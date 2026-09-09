@@ -11,6 +11,7 @@ window.DOCS = [
       { id: 'operation-rules-v2-1', title: '03 運営規程 ver2.1', path: '03_運営規程ver2.1.md' },
       { id: 'token-rules-v2-2', title: '04 トークン規程 ver2.2', path: '04_トークン規程ver2.2.md' },
       { id: 'glossary', title: '05 用語集', path: '05_用語集.md' },
+      { id: 'treasury-rules-v1-0', title: '06 トレジャリー管理規程 ver1.0', path: '06_トレジャリー管理規程ver1.0.md' },
     ],
   },
   // 2) 開発中（v3.x）
@@ -30,6 +31,7 @@ window.DOCS = [
       { id: 'appendix-assembly', title: 'DAO総会別紙', path: 'appendices/DAO総会別紙.md' },
       { id: 'appendix-shared-ops', title: '共通運用', path: 'appendices/共通運用.md' },
       { id: 'appendix-token', title: 'トークン別紙', path: 'appendices/トークン別紙.md' },
+      { id: 'appendix-treasury', title: 'トレジャリー別紙', path: 'appendices/トレジャリー別紙.md' },
     ],
   },
   // 4) 全体説明（ガイド）
